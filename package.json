@@ -1,0 +1,28 @@
+{
+  "name": "hyperimg",
+  "version": "1.0.0",
+  "description": "Random Image Background for Hyper!",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxczaki/hyperimg.git"
+  },
+  "keywords": [
+    "image",
+    "hyper",
+    "random",
+    "hyperimg"
+  ],
+  "author": "Antoni Kepinski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xxczaki/hyperimg/issues"
+  },
+  "homepage": "https://github.com/xxczaki/hyperimg"
+}
